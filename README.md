@@ -35,3 +35,22 @@ pip install -r requirements.txt
 python manage.py runserver
 
 ```
+
+#
+
+### App Preview :
+
+<table width="100%"> 
+  <tr>
+  <td width="50%">      
+    &nbsp; 
+    <br>
+    <p align="center">Feed Home</p>
+    <img src="https://user-images.githubusercontent.com/93127656/207797726-19172ee8-ebc1-4ce6-9b2a-995c3f510e8b.png">
+  </td> 
+  <td width="50%">
+    <br>
+    <p align="center">Room Conversation Preview</p>
+    <img src="https://user-images.githubusercontent.com/93127656/207797819-a25e9773-5bfe-4302-b139-f7b27eae1621.png">  
+  </td>
+</table>
